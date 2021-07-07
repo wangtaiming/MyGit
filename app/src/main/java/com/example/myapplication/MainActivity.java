@@ -6,12 +6,17 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    //第一个人所做了修改！！！
+
+
+
     //git 第一次提交
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        //在这冲突，第一个人 ；
+        //setContentView(R.layout.activity_main);
     }
 
     //分支1.2
