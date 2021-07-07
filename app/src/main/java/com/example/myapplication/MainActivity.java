@@ -18,9 +18,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //最后一次2
-
-        setContentView(R.layout.activity_main);
+        //最后一次222222
+        //真最后一次了
+        //buyao l
         int a = 2 ;
     }
 
