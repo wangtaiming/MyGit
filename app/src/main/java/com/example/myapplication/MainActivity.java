@@ -10,13 +10,17 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+    //第二个人在这座了修改
+
+
     //git 第一次提交
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //在这冲突，第一个人 ；
+
         //setContentView(R.layout.activity_main);
+        int a = 2 ;
     }
 
     //分支1.2
