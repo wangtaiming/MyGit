@@ -18,7 +18,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //最后一次修改了
+        //最后一次2
+
         setContentView(R.layout.activity_main);
         int a = 2 ;
     }
